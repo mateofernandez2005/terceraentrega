@@ -167,7 +167,7 @@ ci_almacenero,capacidadKg,capacidadM3) VALUES
 (2,-56.165432,-34.902112 ,123456789012 ,45678901 ,20000 ,200 );
 INSERT INTO manejar (matricula,Ci_camionero) VALUES
 ('ABC1234' ,23456789 ),
-('XYZ7890' ,56789012 );
+('XYZ5678' ,56789012 );
 INSERT INTO lote (id,id_almacen) VALUES
 (1 ,1 ),
 (2 ,2 );
