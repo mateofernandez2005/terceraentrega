@@ -164,6 +164,7 @@ INSERT INTO empresa (rut) VALUES
 INSERT INTO almacen (id, longitud, latitud, rut_empresa,
 ci_almacenero,capacidadKg,capacidadM3) VALUES
 (1,-56.164532,-34.901112 ,123456789012 ,12345678 ,10000 ,100 ),
+(0,-56.16532,-34.91112 ,123456789012 ,12345678 ,10000 ,100 ),
 (2,-56.165432,-34.902112 ,123456789012 ,45678901 ,20000 ,200 );
 INSERT INTO manejar (matricula,Ci_camionero) VALUES
 ('ABC1234' ,23456789 ),
